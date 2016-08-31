@@ -2,7 +2,7 @@
 a very simple statusBar 
 
 ## 显示普通信息
-[XMGStatusBarHUD showMessage:@"信息"];
+[XMGStatusBarHUD showMessage:@"没什么事！！！"];
 
 ## 显示成功信息
 [XMGStatusBarHUD showSuccess:@"加载成功"];
